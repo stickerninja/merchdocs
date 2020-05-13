@@ -3,7 +3,7 @@ title: Grid Controls
 group: getting-started
 ---
 
-Admin pages that manage data display a collection of records in a grid. The controls at the top of each column can be used to sort the data. The current sort order is indicated by an ascending or descending arrow in the column header. You can specify which columns appear in the grid, and drag them into different positions. You can also save different column arrangements as views that can be used later. The **Action** column lists operations that can be applied to an individual record. In addition, date from the current view of most grids can be exported to a [CSV]({% link system/data-csv.md %}) or XML file.
+Admin pages that manage data display a collection of records in a grid. The controls at the top of each column can be used to sort the data. The current sort order is indicated by an ascending or descending arrow in the column header. You can specify which columns appear in the grid, and drag them into different positions. You can also save different column arrangements as views that can be used later. The **Action** column lists operations that can be applied to an individual record. In addition, data from the current view of most grids can be exported to a [CSV]({% link system/data-csv.md %}) or XML file.
 
 ![Orders page - grid display]({% link images/images/admin-workspace-grid.png %}){: .zoom}
 _Orders Grid_
