@@ -18,7 +18,7 @@ The checkbox in the first column of the list identifies each record that is a ta
 
 1. Select the checkbox of each record that is a target for the action. Or, use one of the following **Actions** to select a group of records:
 
-   - Select All / Unselect All
+   - Select All / Deselect All
    - Select All on This Page / Deselect All on This Page
 
 1. If needed, set the filters at the top of each column to show only the records that you want to include.
@@ -49,7 +49,7 @@ The checkbox in the first column of the list identifies each record that is a ta
 |Action|Description|
 |--- |--- |
 |Select All|Marks the checkbox of all records in the list.|
-|Unselect All|Clears the checkbox of all records in the list.|
+|Deselect All|Clears the checkbox of all records in the list.|
 |Select All on This Page|Marks the checkbox of records on the current page.|
 |Deselect All on This Page|Clears the checkbox of  records on the current page.|
 
